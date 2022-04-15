@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishakha Pradhan</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
+
+Catch me on my youtube channel link- https://www.youtube.com/channel/UCi_aiBmfV7V3e8Ke1RZXemA/featured
 - 🔭 I’m currently working on **Android Native**
 
 - 🌱 I’m currently learning **Python**
@@ -13,6 +15,7 @@
 - 📫 How to reach me **Insta- @_bishakha.pradhan_**
 
 - ⚡ Fun fact **I am a compulsive shopaholic**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishakhapradhan&label=Profile%20views&color=0e75b6&style=flat" alt="bishakhapradhan" /> </p>
 
