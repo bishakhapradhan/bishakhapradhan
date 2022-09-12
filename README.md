@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bishakha Pradhan</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">An Enthusiastic QA Tester from Nepal.</h3>
 
 Catch me on my youtube channel link- https://www.youtube.com/channel/UCi_aiBmfV7V3e8Ke1RZXemA/featured
-- 🔭 I’m currently working on **Android Native**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Selenium-automated testing**
 
 - 👯 I’m looking to collaborate on **Youtube**
 
-- 🤝 I’m looking for help with **Graphic designning ideas**
+- 🤝 I’m looking for help with **Graphics Designning**
 
 - 💬 Ask me about **tech related questions**
 
-- 📫 How to reach me **Insta- @_bishakha.pradhan_**
+- 📫 How to reach me **Insta- @_bishakhapradhan_**
 
 - ⚡ Fun fact **I am a compulsive shopaholic**
 
