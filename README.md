@@ -4,7 +4,7 @@
 Catch me on my youtube channel link- https://www.youtube.com/channel/UCi_aiBmfV7V3e8Ke1RZXemA/featured
 - 🔭 I’m currently working on **Java/Python**
 
-- 🌱 I’m currently learning **Selenium-automated testing**
+- 🌱 I’m currently learning **manual testing and automated testing**
 
 - 👯 I’m looking to collaborate on **Youtube**
 
