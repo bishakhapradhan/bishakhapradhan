@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishakha Pradhan</h1>
-<h3 align="center">An Enthusiastic QA Tester from Nepal.</h3>
+<h3 align="center">QA Engineer.</h3>
 
 Catch me on my youtube channel link- https://www.youtube.com/channel/UCi_aiBmfV7V3e8Ke1RZXemA/featured
 - 🔭 I’m currently working on **Java**
