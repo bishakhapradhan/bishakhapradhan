@@ -2,13 +2,13 @@
 <h3 align="center">QA Engineer</h3>
 
 Catch me on my youtube channel link- https://www.youtube.com/channel/UCi_aiBmfV7V3e8Ke1RZXemA/featured
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java/Python**
 
 - 🌱 I’m currently learning **Selenium-automated testing**
 
 - 👯 I’m looking to collaborate on **Youtube**
 
-- 🤝 I’m looking for help with **Graphics Designning**
+- 🤝 I’m looking for help with **automated test scripts**
 
 - 💬 Ask me about **tech related questions**
 
