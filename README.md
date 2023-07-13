@@ -12,7 +12,7 @@ Catch me on my youtube channel link- https://www.youtube.com/channel/UCi_aiBmfV7
 
 - 💬 Ask me about **tech related questions**
 
-- 📫 How to reach me **Insta- @_bishakhapradhan_**
+- 📫 How to reach me **Insta- @bishakhapradhan.Official**
 
 - ⚡ Fun fact **I am a compulsive shopaholic**
 
