@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bishakha Pradhan</h1>
-<h3 align="center">QA Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 Catch me on my youtube channel link- https://www.youtube.com/channel/UCi_aiBmfV7V3e8Ke1RZXemA/featured
-- 🔭 I’m currently working on **Java/Python**
+- 🔭 I’m currently working as a **QA Engineer**
 
-- 🌱 I’m currently learning **manual testing and automated testing**
+- 🌱 I’m currently learning **Performance Testing**
 
 - 👯 I’m looking to collaborate on **Youtube**
 
